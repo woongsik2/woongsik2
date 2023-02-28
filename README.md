@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000000)
 ![Vue](https://img.shields.io/badge/-Vue-222222?style=flat&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-FF0000?style=flat&logo=Angular)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
 
